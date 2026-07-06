@@ -1,5 +1,17 @@
 # zxgotools
+### This project has been deprecated and it is now superseded by zentools
 
+`zentools` provides drop-in replacements for the `zxgotools` utilities of the same names: same interfaces, corrected behaviour, no external dependencies. 
+`zentools` is actively developed and provides functionality to other projects of the same family:
+https://github.com/ha1tch/zentools
+
+https://github.com/ha1tch/zenzx
+https://github.com/ha1tch/zenas
+
+---
+The following is kept as historical record only:
+
+### zxgotools
 A collection of cross-platform ZX Spectrum tools written in Go.
 
 ## Overview
