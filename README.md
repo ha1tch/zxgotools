@@ -3,11 +3,11 @@
 
 `zentools` provides drop-in replacements for the `zxgotools` utilities of the same names: same interfaces, corrected behaviour, no external dependencies. 
 `zentools` is actively developed and provides functionality to other projects of the same family:
-https://github.com/ha1tch/zentools
+- (Zentools manages ZX Spectrum file formats .sna .z80 .scr .tzx, etc)[https://github.com/ha1tch/zentools]
 
-https://github.com/ha1tch/zenzx
-https://github.com/ha1tch/zenas
-
+- (ZenZX is ZX Spectrum emulator)[https://github.com/ha1tch/zenzx]
+- (Zenas is an advanced Z80 and Z80N macro assembler)[https://github.com/ha1tch/zenas]
+- (Zenimate is a paint and animate tool for ZX Spectrum graphics)[https://github.com/ha1tch/zenimate]
 ---
 The following is kept as historical record only:
 
