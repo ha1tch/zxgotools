@@ -5,6 +5,9 @@
 `zentools` is actively developed and provides functionality to other projects of the same family:
 - (Zentools manages ZX Spectrum file formats .sna .z80 .scr .tzx, etc)[https://github.com/ha1tch/zentools]
 
+### zentools is under the ZSP umbrella of ZX Spectrum projects
+https://ha1tch.github.io/zsp/index.html#projects
+
 - (ZenZX is ZX Spectrum emulator)[https://github.com/ha1tch/zenzx]
 - (Zenas is an advanced Z80 and Z80N macro assembler)[https://github.com/ha1tch/zenas]
 - (Zenimate is a paint and animate tool for ZX Spectrum graphics)[https://github.com/ha1tch/zenimate]
